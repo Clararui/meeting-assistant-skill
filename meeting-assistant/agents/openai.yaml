@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议助理 Skill"
+  short_description: "把课程录音、会议初稿和课件整理成可直接用于飞书的结构化图文笔记"
+  default_prompt: "使用 $meeting-assistant，把我提供的录音、转写初稿和课件整理成适合飞书的 Markdown 图文笔记。"
