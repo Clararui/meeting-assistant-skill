@@ -1,0 +1,9 @@
+{
+  "name": "meeting-assistant-skill-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test tests/package-notes.test.mjs" },
+  "dependencies": { "marked": "17.0.5", "jszip": "3.10.1" }
+}
